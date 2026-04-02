@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@name=\"payment_method\" and @value=\"cod\"]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//td[@class=\"image\" and @data-title=\"No\"]/img"
+}

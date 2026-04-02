@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"add-to-cart mt-4\"]/button[text()=\"Add to cart\"]"
+}

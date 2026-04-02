@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"single-widget category\"]/ul[@class=\"categor-list\"]/li/a[text()=\"Men's Fashion\"]"
+}

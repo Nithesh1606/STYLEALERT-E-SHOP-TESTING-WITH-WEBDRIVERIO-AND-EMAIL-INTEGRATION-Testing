@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"form-group\"]//div[contains(@class, \"nice-select\")]//span[@class=\"current\"]"
+}

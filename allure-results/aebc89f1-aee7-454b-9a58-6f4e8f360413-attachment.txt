@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//td[@class=\"price\" and @data-title=\"Price\"]/span[text()=\"$540.00\"]"
+}

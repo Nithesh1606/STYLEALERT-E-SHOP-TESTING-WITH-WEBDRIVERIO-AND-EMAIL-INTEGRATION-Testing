@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"single-product\"]/div[@class=\"product-img\"]/a[@href=\"http://127.0.0.1:8000/product-detail/melange-casual-black\"]"
+}

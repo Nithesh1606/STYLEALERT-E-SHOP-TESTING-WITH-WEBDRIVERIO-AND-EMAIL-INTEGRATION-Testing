@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//td[@class=\"total-amount cart_single_price\" and @data-title=\"Total\"]/span[@class=\"money\"]"
+}

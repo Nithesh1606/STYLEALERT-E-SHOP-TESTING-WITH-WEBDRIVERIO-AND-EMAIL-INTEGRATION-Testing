@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"product-des\"]//h4[text()=\"Melange Casual Black\"]"
+}
