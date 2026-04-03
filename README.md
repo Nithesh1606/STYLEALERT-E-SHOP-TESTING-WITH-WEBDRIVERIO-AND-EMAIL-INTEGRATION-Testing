@@ -1,6 +1,22 @@
-# WebdriverIO Testing Project
+# StyleAlert: E-Shop Automation Testing using WebdriverIO
 
-This project contains automated tests for an E-shop clothes shopping web application using WebdriverIO. The tests include registration and login functionalities.
+StyleAlert is an end-to-end (E2E) automation testing project developed for an E-commerce web application. The project focuses on automating user workflows such as login, product selection, cart management, and checkout using WebdriverIO.
+
+The system ensures application reliability by executing automated test cases and generating detailed reports.
+
+Objectives
+Automate E-commerce user flows
+Reduce manual testing effort
+Improve testing accuracy and speed
+Generate and share test reports automatically
+
+Features
+🔐 Login & Registration Testing
+🛒 Product Selection & Cart Testing
+💳 Checkout & Payment Flow Testing
+📊 Automated Test Report Generation (Allure)
+📧 Email Integration for Report Sharing
+🔄 End-to-End Test Automation
 
 ## Table of Contents
 
